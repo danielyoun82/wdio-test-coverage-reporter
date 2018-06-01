@@ -1,6 +1,6 @@
 {
   "name": "wdio-test-coverage-reporter",
-  "version": "0.0.3",
+  "version": "0.0.22",
   "description": "custom reporter that allow display of test coverage information",
   "main": "build/reporter.js",
   "directories": {
