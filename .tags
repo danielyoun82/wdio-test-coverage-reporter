@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+name	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^  "name": "wdio-test-coverage-reporter",$/;"	function	line:2
+version	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^  "version": "1.0.0",$/;"	function	line:3
+description	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^  "description": "custom reporter that allow display of test coverage information",$/;"	function	line:4
+main	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^  "main": "index.js",$/;"	function	line:5
+scripts	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^  "scripts": {$/;"	function	line:6
+test	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^    "test": "echo \\"Error: no test specified\\" && exit 1"$/;"	function	line:7
+author	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^  "author": "",$/;"	function	line:9
+license	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^  "license": "MIT",$/;"	function	line:10
+devDependencies	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^  "devDependencies": {$/;"	function	line:11
+@types/mkdirp	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^    "@types\/mkdirp": "^0.5.2",$/;"	function	line:12
+@types/node	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^    "@types\/node": "^10.1.4",$/;"	function	line:13
+typescript	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^    "typescript": "^2.8.4"$/;"	function	line:14
+dependencies	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^  "dependencies": {$/;"	function	line:16
+mkdirp	/Users/danielyoun/custom_reporter_work/wdio-test-coverage-reporter/package.json	/^    "mkdirp": "^0.5.1"$/;"	function	line:17

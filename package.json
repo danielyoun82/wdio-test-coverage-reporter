@@ -1,0 +1,32 @@
+{
+  "name": "wdio-test-coverage-reporter",
+  "version": "0.0.3",
+  "description": "custom reporter that allow display of test coverage information",
+  "main": "build/custom.reporter.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -rf ./build",
+    "prepublish": "npm run build",
+    "compile": "babel lib/ -d build/"
+  },
+  "keywords": [
+    "reporter",
+    "webdriverio",
+    "wdio",
+    "wdio-plugin",
+    "wdio-reporter"
+  ],
+  "author": "Daniel Youn",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  },
+  "repository": "git@github.com:danielyoun82/wdio-test-coverage-reporter.git"
+}
