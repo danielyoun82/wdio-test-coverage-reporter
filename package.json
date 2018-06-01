@@ -2,7 +2,7 @@
   "name": "wdio-test-coverage-reporter",
   "version": "0.0.3",
   "description": "custom reporter that allow display of test coverage information",
-  "main": "build/custom.reporter.js",
+  "main": "build/reporter.js",
   "directories": {
     "lib": "./lib"
   },
