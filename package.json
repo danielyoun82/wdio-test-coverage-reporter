@@ -10,7 +10,8 @@
     "build": "npm run clean && npm run compile",
     "clean": "rm -rf ./build",
     "prepublish": "npm run build",
-    "compile": "babel lib/ -d build/"
+    "compile": "babel lib/ -d build/",
+    "generateReport": "babel-node lib/reportGenerator.js"
   },
   "keywords": [
     "reporter",
@@ -23,7 +24,8 @@
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0"
+    "babel-preset-env": "^1.7.0",
+    "node-json2html": "^1.2.0"
   },
   "dependencies": {
     "mkdirp": "^0.5.1"
